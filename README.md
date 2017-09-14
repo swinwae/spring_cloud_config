@@ -1,2 +1,2 @@
 # spring_cloud_config
-spring cloud config path
+The remote file for spring cloud config.
